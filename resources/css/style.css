@@ -1,0 +1,10 @@
+html, body {
+  font: 18px/1.4 Helvetica;
+}
+
+/* banner styles */
+.banner {
+  background-image: url("../img/glasses-bg.png");
+  background-size: cover;
+  height: 30rem;
+}
