@@ -27,9 +27,13 @@ header img {
   height: 1.5rem;
   margin: 0 1rem 0 2rem;
 }
-
+/* menu styles */
 nav {
   margin: 1rem 2rem 1rem auto;
+}
+nav a {
+  text-decoration: none;
+  color: inherit;
 }
 nav span {
   margin-left: 2rem;
