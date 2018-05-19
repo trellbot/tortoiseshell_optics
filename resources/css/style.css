@@ -41,3 +41,18 @@ nav span {
 #menu-btn {
   display: none;
 }
+.banner div {
+  display: flex;
+  justify-content: flex-end;
+}
+.banner h1 {
+  background-color: white;
+  display: inline-block;
+  position: relative;
+  top: 10rem;
+  right: -2rem;
+  font-size: 2rem;
+  line-height: 1.2;
+  font-weight: bold;
+  padding: 1.5rem 5rem;
+}
